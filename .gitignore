@@ -1,3 +1,6 @@
 *~
 *.key
 *.pem
+__pycache__/
+*.pyc
+config.json
