@@ -20,4 +20,20 @@ To successfully use these samples, please follow these steps:
 5. Navigate to a folder with code samples in a language of your choice and follow the instructions
    provided in the README.md file, which can be found there.
 
+## Quick Start: OTP Bank Hungary CLI Tool
+
+If you want to authenticate with **OTP Bank Hungary** using an interactive CLI tool, we provide a ready-to-use script:
+
+```bash
+python3 otp_hungary_cli_auth.py
+```
+
+This interactive script will:
+- ✅ Guide you through the setup process step-by-step
+- ✅ Explain how to obtain all required credentials
+- ✅ Handle the complete authentication flow with OTP Bank Hungary
+- ✅ Display your account balances and recent transactions
+
+**See [OTP_HUNGARY_README.md](OTP_HUNGARY_README.md) for detailed instructions.**
+
 For further information please refer to the [Enable Banking Docs](https://enablebanking.com/docs/)

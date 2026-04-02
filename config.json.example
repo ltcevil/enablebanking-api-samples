@@ -1,0 +1,5 @@
+{
+    "applicationId": "YOUR-APPLICATION-ID-HERE",
+    "keyPath": "YOUR-APPLICATION-ID-HERE.pem",
+    "redirectUrl": "http://localhost:8080/auth_redirect"
+}
